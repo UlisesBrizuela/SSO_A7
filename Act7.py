@@ -95,7 +95,7 @@ class MainWindow(QWidget):
         self.text_log = QTextBrowser(self)
         self.text_log.setGeometry(QRect(570, 30, 401, 511))
 
-#'''
+#''' Hola?
 
 
 
